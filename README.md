@@ -1,5 +1,5 @@
 # mapbox_studio101
-Mapbox Studio Tutorial, testing conceptual slideshow approach
+Mapbox Studio Tutorial, testing conceptual slideshow approach with reveal.js
 
 ###Tutorial Breakdown
 [Google Doc](https://docs.google.com/document/d/10jr9v937-H94ze0W-ORp11mKmRYuSY-HHgpy5QnC0yw/edit?usp=sharing)
