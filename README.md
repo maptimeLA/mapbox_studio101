@@ -11,7 +11,6 @@ This sample dataset is on the Boyle Heights neighborhood of the City of Los Ange
 * geojson: Can be open in any GIS software and Mapbox Studio
 * mbtiles: Can be uploaded and served by Mapbox or your own tileserver
 * boyleheightsCPStyle.tm2: Styling files that can be opened in Mapbox Studio
-* boyle_heightsCP.tm2source: Source files linking to Shapefile or geojson
 
 ###Data Attributes
 The data contains the following (Please note, for the purpose of this tutorial, the dataset has omitted attributes from the original dataset)
