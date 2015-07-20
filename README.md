@@ -1,4 +1,3 @@
-Inline-style: 
 ![alt text](https://raw.githubusercontent.com/maptimeLA/mapbox_studio101/master/images/cover.png)
 
 # mapbox_studio101
