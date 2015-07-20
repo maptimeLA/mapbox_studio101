@@ -1,3 +1,6 @@
+Inline-style: 
+![alt text](https://raw.githubusercontent.com/maptimeLA/mapbox_studio101/master/images/cover.png)
+
 # mapbox_studio101
 Mapbox Studio Tutorial, testing conceptual slideshow approach with reveal.js
 
