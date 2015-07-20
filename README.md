@@ -32,9 +32,12 @@ The data contains the following (Please note, for the purpose of this tutorial, 
 * RecordingDate – The last date this information was recorded
 * Roll_LandValue – Land Value
 * Roll_LandBaseYear – Base year for the land value. Proposition 13 limits property value increases so this year sets the base for these amounts.
+* Roll_ImpValue – Improvement Value
+* Roll_ImpBaseYear - Base year for the improvement value. Proposition 13 limits property value increases so this year sets the base for these amounts.
 
 ###Data Sources
 [2014 LA County Assessors Parcels](http://egis3.lacounty.gov/dataportal/2015/03/10/assessor-parcel/), from LA County GIS Data Portal
+
 [City of Los Angeles Community Plans](https://data.lacity.org/A-Well-Run-City/Community-Plan-Area/pu8r-72kk), from LA City's Data Website
 
 
