@@ -55,7 +55,9 @@ The data contains the following (Please note, for the purpose of this tutorial, 
 
 
 ###Resources
-[Intro to Mapbox Studio](http://lyzidiamond.com/mapbox-studio/#0), by the Bumblebee, Lyzi Diamond (insert, Wayne's World we're not worthy)
+[Intro to Mapbox Studio](http://lyzidiamond.com/mapbox-studio/#0), Slideshow by the Bumblebee, Lyzi Diamond (insert, Wayne's World we're not worthy)
+
+[Video tutorial to Mapbox Studio](https://www.youtube.com/watch?v=ytqw8iMYbog)
 
 [FOSS4G Video on Vector Tiles](https://vimeo.com/106228141)
 
