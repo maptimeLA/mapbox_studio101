@@ -3,12 +3,18 @@
 # mapbox_studio101
 Mapbox Studio Tutorial, testing conceptual slideshow approach with reveal.js
 
-###Tutorial Breakdown (To be completed)
-* Preparation
-* Foundations
-* Topic
-* Implementation
-* Success
+###Tutorial Breakdown
+1. Maps on the web 
+2. Need for exploring re-presentation of maps
+3. What are webmaps?
+4. Tools for styling maps
+5. CartoCSS, coding in style
+6. Tool of the day: Mapbox Studio
+7. Steps
+  * 1 // Loading sources to Mapbox Studio
+  * 2 // Publishing map to host on Mapbox
+  * 3 // Styling your map
+  * 4 // Making a simple map with HTML and Javascript, (only 5 lines of code!)
 
 
 
