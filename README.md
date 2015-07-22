@@ -17,6 +17,7 @@ Mapbox Studio Tutorial, testing conceptual slideshow approach with reveal.js
   * 2 // Publishing map to host on Mapbox (Mapbox converts to mbtiles to be uploaded)
   * 3 // Styling your map (Mapbox saves styles as .tm2z file)
   * 4 // Making a simple map with HTML, CSS and Javascript, (only 5 lines of code!)
+   * Available text editors:[Sublime](http://www.sublimetext.com/) // [Brackets](http://brackets.io/) // [Atom](https://atom.io/)
 
 
 
