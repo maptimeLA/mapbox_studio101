@@ -10,11 +10,11 @@ Mapbox Studio Tutorial, testing conceptual slideshow approach with reveal.js
 4. Tools for styling maps
 5. CartoCSS, coding in style
 6. Tool of the day: Mapbox Studio
-7. Steps
-  * 1 // Loading sources to Mapbox Studio
-  * 2 // Publishing map to host on Mapbox
-  * 3 // Styling your map
-  * 4 // Making a simple map with HTML and Javascript, (only 5 lines of code!)
+7. Steps (Working files for each step is contained in the "Steps Folder" and labeled as such)
+  * 1 // Loading sources to Mapbox Studio (Loading Shapefiles)
+  * 2 // Publishing map to host on Mapbox (Mapbox converts to mbtiles to be uploaded)
+  * 3 // Styling your map (Mapbox saves styles as .tm2z file)
+  * 4 // Making a simple map with HTML, CSS and Javascript, (only 5 lines of code!)
 
 
 
