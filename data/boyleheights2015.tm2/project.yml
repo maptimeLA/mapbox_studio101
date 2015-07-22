@@ -1,0 +1,25 @@
+_prefs: 
+  mapid: ''
+  saveCenter: true
+_properties: {}
+attribution: ''
+bounds: 
+  - -180
+  - -85.0511
+  - 180
+  - 85.0511
+center: 
+  - -118.3245
+  - 34.0504
+  - 12
+description: ''
+format: "png8:m=h"
+interactivity_layer: ''
+layers: null
+maxzoom: 16
+minzoom: 12
+name: BoyleHeights2015
+source: "mapbox:///mapbox.mapbox-streets-v5,cruzin73vw.9bba0f83"
+styles: 
+  - style.mss
+template: ''
