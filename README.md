@@ -9,7 +9,7 @@ MaptimeLA Stying Tutorial
 3. What are webmaps?
 4. Tools for styling maps
 5. CartoCSS, coding in style
-6. Tool of the day: Mapbox Studio
+6. Tool of the day: Mapbox Studio (Learning to fork this Github Repository)
  * Sign-Up for [Mapbox Account](https://www.mapbox.com/plans/)
  * Download for [Windows](https://www.mapbox.com/mapbox-studio/#win64), [Mac OSX](https://www.mapbox.com/mapbox-studio/#darwin) or [Linux](https://www.mapbox.com/mapbox-studio/#linux)
 7. Steps (Working files for each step is contained in the "Steps Folder" and labeled as such)
