@@ -16,7 +16,7 @@ MaptimeLA Stying Tutorial
   * 1 // Loading sources to Mapbox Studio (Loading Shapefiles)
   * 2 // Publishing map to host on Mapbox (Mapbox converts to mbtiles to be uploaded)
   * 3 // Styling your map (Mapbox saves styles as .tm2z file)
-  * 4 // Making a simple map with HTML, CSS and Javascript, (only 5 lines of code!)
+  * 4 // Making a simple map with HTML, CSS and Javascript, (only 5 lines of code!), [LIVE DEMO](http://maptimela.github.io/mapbox_studio101/Steps/4_simple_map/index.html)
    * Available text editors:[Sublime](http://www.sublimetext.com/) // [Brackets](http://brackets.io/) // [Atom](https://atom.io/)
 
 
