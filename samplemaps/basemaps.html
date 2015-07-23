@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset=utf-8 />
+<title>Leaflet layers control</title>
+<meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+<script src='https://api.tiles.mapbox.com/mapbox.js/v2.2.1/mapbox.js'></script>
+<link href='https://api.tiles.mapbox.com/mapbox.js/v2.2.1/mapbox.css' rel='stylesheet' />
+<style>
+  body { margin:0; padding:0; }
+  #map { position:absolute; top:0; bottom:0; width:100%; }
+</style>
+</head>
+<body>
+<div id='map'></div>
+
+<script>
+L.mapbox.accessToken = 'pk.eyJ1IjoibWFwdGltZWxhb21hciIsImEiOiI0OTM4MWMwZDE2ZmU1OWYzMTNhOTkxZGFhMTc3ZWZkZiJ9.bQawylJZhz888XtP7TGBbg';
+var map = L.mapbox.map('map').setView([34.047415, -118.219489], 12);
+
+L.control.layers({
+    'Mapbox Streets': L.mapbox.tileLayer('mapbox.streets').addTo(map),
+    'Mapbox Light': L.mapbox.tileLayer('mapbox.light'),
+    'Mapbox Dark': L.mapbox.tileLayer('mapbox.dark'),
+    'Mapbox StSat': L.mapbox.tileLayer('mapbox.streets-satellite'),
+    'Mapbox Wheatpaste': L.mapbox.tileLayer('mapbox.wheatpaste'),
+    'Mapbox Comic': L.mapbox.tileLayer('mapbox.comic'),
+    'Mapbox Pencil': L.mapbox.tileLayer('mapbox.pencil'),
+    'Mapbox Pirates': L.mapbox.tileLayer('mapbox.pirates')
+}, {
+    'Bike Stations': L.mapbox.tileLayer('examples.bike-locations'),
+    'Bike Lanes': L.mapbox.tileLayer('examples.bike-lanes')
+}).addTo(map);
+</script>
+</body>
+</html>
