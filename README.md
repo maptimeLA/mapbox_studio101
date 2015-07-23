@@ -3,7 +3,7 @@
 # mapbox_studio101
 MaptimeLA Stying Tutorial
 
-###Tutorial Breakdown
+###Tutorial Breakdown ([http://slides.com/omarureta/deck](http://slides.com/omarureta/deck)]
 1. Maps on the web 
 2. Need for exploring re-presentation of maps
 3. What are webmaps?
